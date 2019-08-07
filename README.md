@@ -1,5 +1,3 @@
-# exibir-todos-os-links-de-uma-pagina
-
 # Exibir todos os links de uma pagina
 Script python para acessar uma URL e exibir todos os links contidos na pagina.
 
