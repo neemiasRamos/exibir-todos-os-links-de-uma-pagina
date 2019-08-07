@@ -12,7 +12,6 @@ requests      | [Download](https://pypi.org/project/requests/)                 |
 
 ## Instruções
 1. Clone o repositório
-2. Crie um arquivo de texto vazio e salve o caminho para inserir no script
-3. Altere o aquivo .py | Insira a URL.
-4. Abra o IDLE
-5. Abra o arquivo .py e execute
+2. Altere o aquivo .py | Insira a URL.
+3. Abra o IDLE
+4. Abra o arquivo .py e execute
